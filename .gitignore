@@ -185,3 +185,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# PNG thumbnails of images
+images/*.png
