@@ -1,3 +1,8 @@
+# This script comes from UESTCthesis project. It is now adapted without
+# changing.
+#
+# @author Huang Hongye <qrqiuren@users.noreply.github.com>
+
 export TEXINPUTS=./dependences//:
 export TEXMFDBS=./dependences:
 jobname=thesis

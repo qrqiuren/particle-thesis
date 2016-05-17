@@ -1,3 +1,8 @@
+rem This script comes from UESTCthesis project. It is now adapted without
+rem changing.
+rem
+rem @author Huang Hongye <qrqiuren@users.noreply.github.com>
+
 @echo off
 del /S *.aux 2>nul
 del /S *.bbl 2>nul

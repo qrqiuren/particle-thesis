@@ -1,3 +1,8 @@
+# This script comes from UESTCthesis project. It is now adapted without
+# changing.
+#
+# @author Huang Hongye <qrqiuren@users.noreply.github.com>
+
 find . -name "*.aux"  | xargs rm -f
 find . -name "*.bbl"  | xargs rm -f
 find . -name "*.bak"  | xargs rm -f
