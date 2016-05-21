@@ -604,7 +604,7 @@
 \CTEXsetup[ aftername={\enspace},
             beforeskip={18bp},
             afterskip={18bp plus 3.6bp minus 3.6bp},
-            numberformat={\bf},
+            numberformat={},
             format={\heiti\zihao{4}\flushleft\baselineskip=20bp}]{section}
 }{
 \CTEXsetup[ aftername={\enspace},
@@ -617,7 +617,7 @@
 \CTEXsetup[ aftername={\enspace},
             beforeskip={12bp},
             afterskip={12bp plus 2.4bp minus 2.4bp},
-            numberformat={\bf},
+            numberformat={},
             format={\heiti\zihao{4}\flushleft\baselineskip=20bp}]{subsection}
 }{
 \CTEXsetup[ aftername={\enspace},
@@ -630,7 +630,7 @@
 \CTEXsetup[ aftername={\enspace},
             beforeskip={6bp},
             afterskip={6bp plus 1.2bp minus 1.2bp},
-            numberformat={\bf},
+            numberformat={},
             format={\heiti\zihao{-4}\flushleft\baselineskip=20bp}]{subsubsection}
 }{
 \CTEXsetup[ aftername={\enspace},
