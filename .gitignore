@@ -188,3 +188,9 @@ $RECYCLE.BIN/
 
 # PNG thumbnails of images
 images/*.png
+
+# Microsoft Office & LibreOffice & WPS documents
+*.doc
+*.docx
+*.odt
+*.wps
