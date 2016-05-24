@@ -13,7 +13,7 @@
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
-*.pdf
+# *.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -135,6 +135,16 @@ sympy-plots-for-*.tex/
 *.bak
 *.sav
 
+# Images
+images/
+
+# Output documents
+thesis.pdf
+thesis.doc
+thesis.docx
+thesis.odt
+thesis.wps
+
 # =========================
 # Operating System Files
 # =========================
@@ -185,12 +195,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# PNG thumbnails of images
-images/*.png
-
-# Microsoft Office & LibreOffice & WPS documents
-*.doc
-*.docx
-*.odt
-*.wps
