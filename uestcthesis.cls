@@ -1,4 +1,12 @@
 %%
+%% This file is now working for working with `particle-thesis'
+%% and has been made some adaptations.
+%%
+%%  Copyright 2012-2016 Shi Fujun <shifujun@foxmail.com>
+%%  Copyright 2016 Huang Hongye <qrqiuren@users.noreply.github.com>
+%%
+%% =================================================
+%%
 %% This is file `uestcthesis.cls',
 %% generated with the docstrip utility.
 %%

@@ -7,10 +7,8 @@ set TEXINPUTS=./dependences//;
 set TEXMFDBS=./dependences;
 set jobname=thesis
 @echo off
-call .\clean.bat
 del %jobname%.pdf
 if exist %jobname%.pdf (
 exit /b 1
 )
 pdflatex .\%jobname%.tex
-call .\clean.bat

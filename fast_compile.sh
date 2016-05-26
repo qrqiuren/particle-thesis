@@ -6,7 +6,5 @@
 export TEXINPUTS=./dependences//:
 export TEXMFDBS=./dependences:
 jobname=thesis
-./clean.sh
 rm $jobname.pdf
 pdflatex ./$jobname.tex
-./clean.sh
