@@ -724,6 +724,9 @@ pdfkeywords={\@pdfckeywords}%在pdf元信息中加入关键字
 \theoremsymbol{■}
 \newtheorem{yinli}{引理}[chapter]
 \def\endyinli{\quad\@endtheorem}
+\theoremsymbol{}
+\newtheorem{jiashe}{假设}[chapter]
+\def\endjiashe{\quad\@endtheorem}
 \theoremstyle{nonumberplain}
 \theoremsymbol{■}
 \newtheorem{zhengming}{证明}
